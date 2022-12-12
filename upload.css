@@ -165,3 +165,7 @@ body {
     bottom: 100%;
   }
 }
+.btn{
+    background: #2BC6D2;
+    width: 90%;
+}
